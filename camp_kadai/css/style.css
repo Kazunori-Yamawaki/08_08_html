@@ -1,0 +1,42 @@
+.box1 {
+    width: 945px;
+    height: 370px;
+    background: red;
+    background: url("../img/01.jpg") no-repeat center center;
+    background-size: cover;
+    margin:0 auto;
+    margin-bottom: 50px;
+}
+
+.box1-txt {
+    color: #fff;
+    font-size: 50px;
+    font-weight: bold;
+    text-align:center;
+    padding: 165px;
+}
+
+.box2{
+    width: 945px;
+    height: 370px;
+    background: red;
+    background: url("../img/02.jpg") no-repeat center center;
+    background-size: cover;
+    margin:0 auto;
+}
+
+.box2-title{
+    color: #fff;
+    font-size: 50px;
+    font-weight: bold;
+    text-align:center;
+    padding: 120px;
+}
+
+.box2-txt{
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+    text-align:center;
+    margin-top: -80px;
+}
